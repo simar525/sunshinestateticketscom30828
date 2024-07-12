@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://disabled.clarkritchotte.net/$1"
+ }
+  ]
+}
